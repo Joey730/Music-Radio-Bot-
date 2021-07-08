@@ -172,7 +172,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton('⚙️ Updates', url='https://t.me/DeepakV111'),
-                InlineKeyboardButton('🤖 Other Bots', url='https://t.me/DeepakV'),
+                InlineKeyboardButton('🤖 Other Bots', url='https://t.me/DeepakV111'),
             ],
             [
                 InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/DeepakV111'),
